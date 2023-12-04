@@ -7,6 +7,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 <p align="center">  
    <a href="https://github.com/AryanVBW/LinuxDroid/tree/main#linuxdroid">
 <img src="https://github.com/AryanVBW/ParrotSecurityOsForAndroid/releases/download/Gif/visithere.gif" alt="Darkside"></a></p>
+
 ## 🌟 Key Features:
 
 - **User-Friendly Interface:** Enjoy the familiarity and ease of use that Ubuntu is known for.
