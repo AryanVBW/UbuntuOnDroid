@@ -2,7 +2,8 @@
 # UbuntuOnDroid 🚀📱
 
 Experience Ubuntu elegance on your Android device with UbuntuOnDroid! 🌌
-
+# installation
+simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
 ## 🌟 Key Features:
 
 - **User-Friendly Interface:** Enjoy the familiarity and ease of use that Ubuntu is known for.
