@@ -14,12 +14,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 
 - **Extensive Software Ecosystem:** Access a vast library of software to tailor your Android experience.
 
-## 🚀 Getting Started:
-
-1. Clone this repository to your Android device.
-2. Navigate to the UbuntuOnDroid directory.
-3. Follow the installation instructions in the README file.
-4. Embrace Ubuntu's versatility on your Android device!
+## 🚀 Embrace Ubuntu's versatility on your Android device!
 
 ## 🤝 Contribution and Support:
 
