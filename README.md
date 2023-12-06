@@ -15,6 +15,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 - **Extensive Software Ecosystem:** Access a vast library of software to tailor your Android experience.
 
 ## 🚀 Embrace Ubuntu's versatility on your Android device!
+<p align="center">
 <img src="https://github.com/AryanVBW/Myimage/releases/download/m2/UbuntuCoF.png" height="100">
 </p>  
    <H1>Copy it for Ubuntu 22.04 CLI:</H1>
